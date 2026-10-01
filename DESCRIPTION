@@ -1,0 +1,9 @@
+Package: diagenesis
+Version: 1.0.0
+Title: An object-oriented approach to diagenetic modelling
+Author: Filip Meysman
+Maintainer: Filip Meysman <filip.meysman@nioz.nl>
+Depends: R (>= 2.10)
+Description: Routines for the construction of reactive transport models for aquatic sediments. The package contains tools to (1) create of species, reaction and element objects, (2) monitor the progress of dynamic simulations, and (3) plot the simulation output. 
+License: GPL
+LazyData: yes
